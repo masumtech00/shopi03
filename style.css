@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+img {
+  max-width: 100%;
+}
+header {
+  background: #0ab7e8;
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+}
+.container {
+  width: 1400px;
+  display: flex;
+  gap: 2%;
+  flex-wrap: wrap;
+}
+.logo {
+  width: 28%;
+}
+.menu {
+  width: 70%;
+}
+section {
+  display: flex;
+  justify-content: center;
+  background-color: #d8e7ec;
+}
+.col1 {
+  width: 48%;
+}
+.col1 div {
+  padding: 30px;
+}
+.col1 h2 {
+  font-size: 55px;
+  line-height: 50px;
+  font-weight: 900px;
+  text-align: center;
+}
+.col1 h3 {
+  font-size: 50px;
+  line-height: 50px;
+  font-weight: 200;
+  text-align: center;
+}
+.underabout p {
+  font-size: 25px;
+  text-align: center;
+}
+.reason_main {
+  display: flex;
+}
